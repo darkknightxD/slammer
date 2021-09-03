@@ -5,9 +5,6 @@
   "addons": [],
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
-    },
-    {
       "url": "heroku/python"
     },
     {
@@ -15,9 +12,6 @@
     },
     {
       "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip.git"
-    },
-    {
-      "url": "https://github.com/jkutner/heroku-buildpack-ngrok"
     },
     {
       "url": "https://github.com/heroku/heroku-buildpack-apt.git"
